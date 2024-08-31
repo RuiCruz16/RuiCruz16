@@ -2,7 +2,7 @@
 <h3 align="center">A tech addicted and a student of Informatics and Computing Engineering at FEUP</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
 
-- 🔭 I’m currently working on a a framework for automatic debugging of Java applications named [Gzoltar](https://github.com/RuiCruz16/gzoltar)
+- 🔭 I’m currently working on a framework for automatic debugging of Java applications named [Gzoltar](https://github.com/RuiCruz16/gzoltar)
 
 - 📫 How to reach me **rpsc16@gmail.com**
 
