@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rui</h1>
 <h3 align="center">A tech addicted and a student of Informatics and Computing Engineering at FEUP</h3>
 
-- 🔭 I’m currently working on a framework for automatic debugging of Java applications named [Gzoltar](https://github.com/RuiCruz16/gzoltar)
+- 🔭 I’m currently helping on a framework for automatic debugging of Java applications named [Gzoltar](https://github.com/RuiCruz16/gzoltar) and developing a mobile application for [CVP Frazão](https://frazao.cruzvermelha.pt/)
 
 - 📫 How to reach me **rpsc16@gmail.com**
 
