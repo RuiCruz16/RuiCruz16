@@ -19,7 +19,7 @@
 <p align = "center">
 
 | UC   | Description                                                                                                                                                   |
-|------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **[PROG](https://github.com/RuiCruz16/PROG)** | Representing and processing RGB color images using C++, with each RGB channel allocated 8 bits. |
 | **[AED_1](https://github.com/RuiCruz16/AED_1)** | Manage school schedules, allowing the manipulation of information related to students, classes, curricular units (UCs), and schedule change requests. |
 | **[AED_2](https://github.com/RuiCruz16/AED_2)** | Models a network of flights and airports using a graph structure. |
