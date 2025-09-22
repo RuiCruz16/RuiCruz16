@@ -6,7 +6,24 @@
 - 📫 How to reach me **rpsc16@gmail.com**
 
 <h3 align="left">Languages</h3>
-[![Languages](https://skillicons.dev/icons?i=cpp,java,c,dart,html,php,css,javascript,haskell,py,regex&theme=dark)](https://skillicons.dev)
+
+[![Languages](https://skillicons.dev/icons?i=cpp,java,c,dart,html,php,css,javascript,haskell,py&theme=dark)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg"
+     alt="Prolog"
+     width="48"
+     height="48" />
+
+<h3 align="left">Frameworks</h3>
+
+[![Frameworks](https://skillicons.dev/icons?i=flutter,laravel,bootstrap&theme=dark)](https://skillicons.dev)
+
+<h3 align="left">Databases / Cloud</h3>
+
+[![Databases/Cloud](https://skillicons.dev/icons?i=sqlite,postgres,firebase&theme=dark)](https://skillicons.dev)
+
+<h3 align="left">Tools</h3>
+
+[![Databases](https://skillicons.dev/icons?i=figma,vscode,clion,idea,androidstudio,git,phpstorm,docker,notion&theme=dark)](https://skillicons.dev)
 
 <p> &nbsp; </p>
 
@@ -14,6 +31,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuiCruz16&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuiCruz16&layout=compact&langs_count=7&theme=dark"/>   
 </div>
+
+<p align = "center">
+  <img align="center" src="https://img.shields.io/badge/Operating System-Linux-informational?style=flat&logo=Linux&logoColor=white&labelColor=242938&color=E46A2B">
+</p>
 
 <h2 align = "center" >Academic Projects</h2>
 <p align = "center">
