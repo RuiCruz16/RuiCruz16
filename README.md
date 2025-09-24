@@ -63,3 +63,10 @@
 | **[IA_2](https://github.com/RuiCruz16/IA_2)** | Built and compared supervised learning models (k-NN, SVM, Decision Tree, and a stacked Autoencoder with CNN+GRU) for binary classification of software defects, with full EDA, preprocessing, evaluation metrics, and visualizations. |
 | **[CPD_1](https://github.com/RuiCruz16/CPD_1)** | Analyzed matrix multiplication algorithms (Simple, Line×Line, Block) in C/C++ and Java, evaluating performance with cache metrics, MFLOPS, and parallelization techniques to measure speedup and efficiency. |
 | **[CPD_2](https://github.com/RuiCruz16/CPD_2)** | Developed a secure distributed chat application with user authentication, dynamic room management, SSL/TLS communication, and integration with Language Learning Models (LLMs) for interactive conversations. |
+
+<h2 align = "center" >Personal Projects</h2>
+<p align = "center">
+
+| Project   | Description                                                                                                                                                |
+|:------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **[Transport Management System](https://github.com/RuiCruz16/Transport-Management)** | Developed with the Frazão Branch of the Portuguese Red Cross, this app modernizes the management of transportation vehicles by allowing users to add, modify and export records, track fuel deposits, and securely store data in Firebase Firestore. |
