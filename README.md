@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rui</h1>
 <h3 align="center">A tech addicted who loves diving into new challenges and learning along the way.</h3>
 
-- ⛵ Member of [FAST - FEUP Academic Solar Team](https://feupacademicsolarteam.fe.up.pt/), developing a fully autonomous solar boat.
+- ⛵ Member of **[FAST - FEUP Academic Solar Team](https://feupacademicsolarteam.fe.up.pt/)**, developing a fully autonomous solar boat.
 
 - 📫 How to reach me **rpsc16@gmail.com**
 
