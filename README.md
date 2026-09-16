@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rui</h1>
 <h3 align="center">A tech addicted who loves diving into new challenges and learning along the way.</h3>
 
-- 🔭 I’m currently learning Lua to develop 2D games with the **[LÖVE](https://love2d.org/)** framework
+- ⛵ Member of [FAST - FEUP Academic Solar Team](https://feupacademicsolarteam.fe.up.pt/), developing a fully autonomous solar boat.
 
 - 📫 How to reach me **rpsc16@gmail.com**
 
@@ -70,3 +70,4 @@
 | Project   | Description                                                                                                                                                |
 |:------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **[Transport Management System](https://github.com/RuiCruz16/Transport-Management)** | Developed with the Frazão Branch of the Portuguese Red Cross, this app modernizes the management of transportation vehicles by allowing users to add, modify and export records, track fuel deposits, and securely store data in Firebase Firestore. |
+| **[UpShot](https://github.com/RuiCruz16/UpShot)** | Wake-up alarm that makes you actually get out of bed - the only way to silence it is to photograph the object you chose beforehand. |
