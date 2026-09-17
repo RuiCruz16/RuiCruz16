@@ -15,15 +15,20 @@
 
 <h3 align="left">Frameworks</h3>
 
-[![Frameworks](https://skillicons.dev/icons?i=flutter,laravel,bootstrap&theme=dark)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=flutter,laravel,bootstrap,threejs,unity,pytorch,opencv,ros&theme=dark)](https://skillicons.dev)
 
 <h3 align="left">Databases / Cloud</h3>
 
-[![Databases/Cloud](https://skillicons.dev/icons?i=sqlite,postgres,firebase&theme=dark)](https://skillicons.dev)
+[![Databases/Cloud](https://skillicons.dev/icons?i=sqlite,postgres,firebase,gcp&theme=dark)](https://skillicons.dev)
+<img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg"
+     alt="Apache Solr"
+     title="Apache Solr"
+     width="48"
+     height="48" />
 
 <h3 align="left">Tools</h3>
 
-[![Databases](https://skillicons.dev/icons?i=figma,vscode,clion,idea,androidstudio,git,phpstorm,docker,notion&theme=dark)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=figma,vscode,clion,idea,androidstudio,git,githubactions,phpstorm,docker,notion&theme=dark)](https://skillicons.dev)
 
 <p> &nbsp; </p>
 
